@@ -1,6 +1,3 @@
-# Library-Manager
-A simple Library Manager in Python that stores books in a text file
-
 # Library Manager
 
 A simple command-line Python program to manage your personal book collection.
